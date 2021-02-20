@@ -2,7 +2,7 @@
 Analytics/Kafka/KSql/Zabbix/Python/kSQL/Influx
 
 ## Motivação
-Utilizar o kafka como plataforma de mensageria distribuida e stream de dados
+Utilizar o kafka como plataforma de mensageria distribuida e stream de dados em tempo real
 
 ## Desafio
 * Implementação e configuração da strutura do kafka, kSqldb, Grafana, Influx

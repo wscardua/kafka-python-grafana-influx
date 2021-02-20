@@ -1,5 +1,5 @@
 # Kafka como plataforma de stream de dados distribuído em real time
-Analytics/Kafka/KSql/Zabbix/Python/kSQL/Influx
+Analytics/Docker/Kafka/KSql/Zabbix/Python/kSQL/Influx
 
 ## Motivação
 Utilizar o kafka como plataforma de mensageria distribuida e stream de dados em tempo real

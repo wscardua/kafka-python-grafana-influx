@@ -1,6 +1,5 @@
 # crypto
-Analytics/Kafka/Zabbix/Python/kSQL/Influx
-
+Analytics/Kafka/KSql/Zabbix/Python/kSQL/Influx
 
 ## Motivação
 Utilizar o kafka como plataforma de mensageria distribuida e stream de dados

@@ -47,3 +47,4 @@ A área de negócio passa a ter uma visão global, precisa e dinâmica de varios
 <img src="https://github.com/wscardua/crypto/blob/master/CryptoDash.gif" width="450"/>
 
 <img src="https://github.com/wscardua/crypto/blob/master/Consumer_Producer_log.gif" width="450"/>
+

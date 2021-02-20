@@ -12,7 +12,7 @@ Desenvolver uma aplicação em pyhton que assine informações púbidas de negoc
 
 1. Desenvolvimento de Producer e Consumer em Python;
 2. Criação de tópicos no Kafka
-3. stream de dados e tabelas via kSql;
+3. Criação de stream de dados e tabelas via kSql;
 4. Criação de estrutura de time series no Influx;
 5. Criação de dashboards via Grafana;
 

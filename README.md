@@ -1,4 +1,4 @@
-# Kafka como plataforma de stream de dados distribuído e contínuo
+# Kafka como plataforma de stream de dados distribuído em real time
 Analytics/Kafka/KSql/Zabbix/Python/kSQL/Influx
 
 ## Motivação

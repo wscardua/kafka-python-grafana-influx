@@ -1,4 +1,4 @@
-# crypto
+# Kafka como plataforma de stream de dados distribuído e contínuo
 Analytics/Kafka/KSql/Zabbix/Python/kSQL/Influx
 
 ## Motivação

@@ -10,11 +10,12 @@ Utilizar o kafka como plataforma de mensageria distribuida e stream de dados
 ## Abordagem
 Desenvolver uma aplicação em pyhton que assine informações púbidas de negociação e oferta de bitcoin e etherium atravês de websockets disponibilizado pela exchange Binance e envie para um tópico expecífico no kafka, os tópicos são utilizados como base para a criação de streams de dados e tabelas para o tratamento e organização da informação pelo kSql, a partir de então os dados são enviados continuamente para o influx como time series 
 
-1. Criação de Producer e Consumer em Python;
-2. ;
-3. Tratamento e Transformação dos dados com Python;
-4. Carga das informações para o banco DW com Python;
-5. Criação de dashboards de negócio com Metabase
+1. Desenvolvimento de Producer e Consumer em Python;
+2. Criação de tópicos no Kafka
+3. stream de dados e tabelas via kSql;
+4. Criação de estrutura de time series no Influx;
+5. Criação de dashboards via Grafana;
+
 
 ## Solução
 1. Modelagem de estruturas de tabela otimizadas em um novo schema de banco de dados Oracle de forma a suportar a carga e a performance exigida por uma solução de analytics

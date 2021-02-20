@@ -36,7 +36,7 @@ Desenvolver uma aplicação em pyhton que assine informações púbidas de negoc
 	
 ## Estruturação da Solução
 <p align="center">
-	<img src="etl-airflow-metabase.jpg" height="70%" width="70%">
+	<img src="https://github.com/wscardua/kafka-python-grafana-influx/blob/main/DiagramaKafka.jpg?" width="550"/>
 </p>
 
 ## Resultado
@@ -48,6 +48,6 @@ A área de negócio passa a ter uma visão global, precisa e dinâmica de varios
 
 <img src="https://github.com/wscardua/kafka-python-grafana-influx/blob/main/CryptoDash.gif" width="450"/>
 
-<img src="https://github.com/wscardua/kafka-python-grafana-influx/blob/main/DiagramaKafka.jpg?" width="550"/>
+
 
 
